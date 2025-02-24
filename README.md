@@ -1,5 +1,9 @@
 # ABOUT ME:
- Hello! I'm Lalith Kishore V S, an AIML student eager to utilize my training and skills in a responsible career opportunity. Passionate about problem-solving, I have a relentless drive for perfecting my code. Balancing my dedication to coding with my enthusiasm for gaming, I seamlessly integrate study, coding, and gaming pursuits. 
+ Hello! I'm Lalith Kishore V S, As a driven and ambitious Machine Learning Engineer, I bring a solid grasp of AI and ML fundamentals, along with a
+ passion for crafting creative solutions. Through hands-on projects and collaborations, I’ve refined my expertise in
+ designing, training, and deploying machine learning models for various industries. I’m excited to join a forward-thinking
+ team, where I can apply my technical skills in Python, TensorFlow, scikit-learn, and proficient in SQL, Excel, and data
+ visualization tools to drive data-driven insights and deliver meaningful results.
 <h1 align="center">Hi 👋, I'm LALITH KISHORE VS</h1>
 <h3 align="center">Seeking a responsible career opportunity to fully utilize my training and skills .</h3>
 
